@@ -1,1 +1,1 @@
-export const apiHostURL = "https://app-amazon-clone.herokuapp.com/";
+export const apiHostURL = "https://react-pexel-back.herokuapp.com/";
