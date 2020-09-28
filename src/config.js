@@ -1,1 +1,1 @@
-export const apiHostURL = "http://localhost:1337"
+export const apiHostURL = "https://app-amazon-clone.herokuapp.com/";
