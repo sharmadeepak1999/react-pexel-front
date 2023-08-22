@@ -1,1 +1,1 @@
-export const apiHostURL = "https://react-pexel-back.herokuapp.com/";
+export const apiHostURL = "https://pexel-api.onrender.com/"
